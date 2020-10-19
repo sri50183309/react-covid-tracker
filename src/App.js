@@ -40,7 +40,7 @@ function App() {
     setCountry(countryCode);
   }
   return (
-    <div className="App">
+    <div className="app">
       <div className="app__left">
         <div className="app__header">
           <h1> COVID-19 TRACKER </h1>
